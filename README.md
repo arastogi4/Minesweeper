@@ -1,2 +1,2 @@
 # Minesweeper
-Utilizing Java Graphics
+Program that utilizes Java Graphics
